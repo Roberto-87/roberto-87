@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberto Ochoa</h1>
-<h3 align="center">A passionate Full-Stack developer from Argentina</h3>
+<h3 align="center">A passionate Full-Stack developer 😎 from Argentina</h3>
 
 - 🔭 I’m currently working on [Books4All](https://books4-all-front.vercel.app/)
 
